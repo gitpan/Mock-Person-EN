@@ -962,7 +962,6 @@ EXAMPLE3
      # Paternoster
      # Paterson
      # Patrick
-     # Patrick.
      # Patrickson
      # Patterson
      # Patton
@@ -1422,5 +1421,5 @@ LICENSE AND COPYRIGHT
     BSD license.
 
 VERSION
-    0.01
+    0.02
 

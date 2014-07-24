@@ -20,7 +20,7 @@ Readonly::Array our @EXPORT_OK => qw(first_male first_female middle_female
 our $TYPE = 'two';
 
 # Version.
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # First and middle male names.
 our @first_male = our @middle_male = qw(
@@ -1073,7 +1073,6 @@ Palmer
 Parent
 Paris
 Parish
-Patrick.
 Parker
 Parris
 Parsons
@@ -2597,7 +2596,6 @@ Returns random female name.
  # Paternoster
  # Paterson
  # Patrick
- # Patrick.
  # Patrickson
  # Patterson
  # Patton
@@ -3070,6 +3068,6 @@ BSD license.
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
