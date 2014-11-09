@@ -1,7 +1,7 @@
 ---
 abstract: 'Generate random sets of English names.'
 author:
-  - 'Michal Špaček <skim@cpan.org>'
+  - 'Michal Spacek <skim@cpan.org>'
 build_requires:
   English: 0
   ExtUtils::MakeMaker: 6.36
@@ -15,7 +15,7 @@ configure_requires:
   ExtUtils::MakeMaker: 6.36
 distribution_type: module
 dynamic_config: 1
-generated_by: 'Module::Install version 1.08'
+generated_by: 'Module::Install version 1.14'
 license: bsd
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -36,4 +36,4 @@ resources:
   homepage: https://github.com/tupinek/Mock-Person-EN
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/tupinek/Mock-Person-EN
-version: 0.02
+version: '0.03'
